@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.FuKarl7.bettervanilla.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "bettervanilla.refmap.json",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
